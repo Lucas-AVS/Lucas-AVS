@@ -27,8 +27,12 @@ I'm currently working on my React portfolio projects and learning Node.js
 
 <br>
 
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-AVS&show_icons=true&bg_color=2E2D2D&text_color=FFFFFF&title_color=FE3D00&icon_color=FE3D00&border_color=FE3D00)](https://github.com/Lucas-AVS)
-[![Most used langs](https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-AVS&layout=compact&n&langs_count=8&bg_color=2E2D2D&text_color=FFFFFF&title_color=FE3D00&icon_color=FE3D00&border_color=FE3D00)](https://github.com/Lucas-AVS) 
+<div align="center">
+  <a href="https://github.com/Lucas-AVS"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-AVS&show_icons=true&bg_color=2E2D2D&text_color=FFFFFF&title_color=FE3D00&icon_color=FE3D00&border_color=FE3D00" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-AVS&layout=compact&n&langs_count=8&bg_color=2E2D2D&text_color=FFFFFF&title_color=FE3D00&icon_color=FE3D00&border_color=FE3D00" />
+</div>
+
 <br>
 <br>
 
