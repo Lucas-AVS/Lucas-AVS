@@ -5,7 +5,7 @@
 - I'm a competitive person who enjoys challenges.
 - I ❤️ FOSS.
 
-I'm currently working on my React portfolio projects and learning Node.js
+My journey into programming started as a hobby, and now I'm immersed in developing my React portfolio projects while expanding my skills in Node.js.
 
 ### Languages 📓
 
