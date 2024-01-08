@@ -15,8 +15,11 @@ My journey into programming started as a hobby, and now I'm immersed in developi
 ### Frontend 🖥️
 
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
+[![StyledComponents](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/)
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+
 
 ### Backend 💽
 
